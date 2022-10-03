@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/4QgxMXb.gif)]
+![MasterHead](https://i.imgur.com/4QgxMXb.gif)
 <h1 align="center">Hi 👋, I'm Fariux</h1>
 <h3 align="center">A Highschool Student who loves to program and learn new things!</h3>
 
