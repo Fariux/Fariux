@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariux&label=Profile%20views&color=0e75b6&style=flat" alt="fariux" /> </p>
 
-- 🔭 I’m currently working on [Chrono](https://discord.com/api/oauth2/authorize?client_id=1026499014927057056&permissions=8&scope=bot%20applications.commands)
+- 🔭 I’m currently working on: [Chrono](https://discord.com/api/oauth2/authorize?client_id=1026499014927057056&permissions=8&scope=bot%20applications.commands)
 
-- 🌱 I want to learn **C++**
+- 🌱 I want to learn: **C++**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
-- 📫 How to reach me **Fariux#8604 on Discord.**
+- 📫 How to reach me: **Fariux#8604 on Discord.**
 
-- ⚡ Fun fact **I know how to swim!**
+- ⚡ Fun fact: **I know how to swim!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
